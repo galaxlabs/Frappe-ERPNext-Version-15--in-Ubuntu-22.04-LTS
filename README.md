@@ -182,7 +182,7 @@ Now press (Ctrl-X) to exit
 
     bench init gbench --frappe-branch version-15 --python python3.10
     
-    cd frappe-bench/
+    cd gbench/
     bench start
     
 ### STEP 14 create a site in frappe bench 
